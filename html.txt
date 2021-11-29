@@ -1,0 +1,22 @@
+Index.html
+<! DOCTYPE html>
+<html>
+<head>
+<title>
+</title>
+<link rel
+"stvlesheet" href "st
+</head>
+<body>
+<h1>
+<a href "/"
+</h1>
+<nav>
+<a href "one/"
+<a href "two/"
+<a href "three/"
+</nav>
+</a>
+</a>
+</a>
+</a>
